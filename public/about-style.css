@@ -1,0 +1,10 @@
+html {
+    text-align: center;
+}
+
+.header {
+    background-color: #155f83ff;
+    color:whitesmoke;
+    padding: 20px;
+    margin: 0
+}
